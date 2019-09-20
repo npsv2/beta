@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#agregado como prueba
+#Para acceso remoto
 git pull
 
 exit 0
