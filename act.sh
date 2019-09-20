@@ -1,6 +1,8 @@
 #!/bin/bash
 #masmas
 #Para acceso remoto
-git pull https://github.com/npsv2/beta.git
+
+cd /npsv2
+git pull 
 
 exit 0
