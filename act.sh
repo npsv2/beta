@@ -1,6 +1,6 @@
 #!/bin/bash
 
 #Para acceso remoto
-git pull
+git pull master
 
 exit 0
