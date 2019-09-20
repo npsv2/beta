@@ -1,6 +1,6 @@
 #!/bin/bash
 
 #agregado como prueba
-git clone git@github.com:alediwait/npsv2jenkins.git
+git pull
 
 exit 0
